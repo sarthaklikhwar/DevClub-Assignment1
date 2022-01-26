@@ -1,0 +1,90 @@
+.navbar0{background-color:purple;
+    column-width: max-content;
+    line-height :100px;
+      height: 150 px;
+      margin-right: 0px;
+    column-gap: 0px;
+    margin-top:-50px;
+    margin-bottom:-40px;}
+.navbar1{background-color:purple;
+    column-width: max-content;
+    line-height :70px;
+    text-decoration: none;
+      color: inherit;
+      height: 100px;
+      float:inherit;
+      margin-right: 0px;
+      column-gap: 0px;
+      margin-top:-50px;
+margin-bottom:-20px;
+}
+.navbar{background-color:purple;
+    column-width: max-content;
+    line-height :100px;
+    text-decoration: none;
+      color: white;
+      height: 150 px;
+      float:inherit;
+      margin-right: 0px;
+      column-gap: 40px;
+      margin-top:-50px;
+      margin-bottom:-20px;}
+#navbar2{background-color:white;
+margin-top:80px;}
+#color3{color: purple;}
+#color4{color: black;
+text-align:right;}
+#color5{color: black;
+text-align: left;}
+#color6{color: purple;
+}
+#navbar3{background-color: plum;}
+#navbar4{background-color: aliceblue;}
+#color7{color: purple;}
+#navbar5{background-color: azure;}
+#color8{color: purple;}
+#navbar6{background: purple;
+}
+#tableA,td,th{padding:50px;
+border-radius: 100px;
+border:0px;
+background-color: white;
+width: max-content;
+letter-spacing:max-content;
+}
+#tableB,td,th{padding:50px;
+    border-radius: 0px;
+    border:0px;
+    background-color: white;
+    width: max-content;
+    letter-spacing:max-content;}
+table, th, td {
+    border: 1px solid purple;
+    background-color: azure;
+    font-size: xxx-large;
+    border-radius: 0px;
+line-break: normal;
+padding: 1px;}
+#table1,th,td{border: 1px  purple;
+    background-color: azure;
+    font-size:large;
+    border-radius: 0px;
+line-break: normal;
+border: spacing 100px;
+}
+#table2,tr,td{border: 1px  purple;
+    background-color: azure;
+    font-size:large;
+    border-radius: 0px;
+line-break: normal;
+border: spacing 100px;
+}
+#table3,td,tr{border: 1px purple;
+    background-color: azure;
+    font-size:large;
+    border-radius: 0px;
+line-break: normal;
+border: spacing 100px;
+}
+#table0,td,tr{border: 5px solid purple;
+    }
